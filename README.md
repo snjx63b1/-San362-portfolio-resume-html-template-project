@@ -3,4 +3,4 @@
 ![alt text](https://github.com/snjx63b1/-San362-portfolio-resume-html-template-project/blob/main/2025-11-09%2019.11.22%20%20a4715704301f.png?raw=true)
 
 Sample video ....
-![Watch the video](https://github.com/snjx63b1/-San362-portfolio-resume-html-template-project/blob/main/html%20webpage%20portfolio%20Demo%20video.mp4raw)
+![Watch the video](https://github.com/snjx63b1/-San362-portfolio-resume-html-template-project/blob/main/html%20webpage%20portfolio%20Demo%20video.mp4)
